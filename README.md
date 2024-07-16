@@ -3,13 +3,9 @@
 
 
 Name - Anurag Kumar
-
 Company - CODTECH IT SOLUTIONS
-
 ID - CT4WD3332
-
 Domain - Web Development
-
 Duration - June to July 2024
 
 
