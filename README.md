@@ -7,9 +7,9 @@ Company - CODTECH IT SOLUTIONS
 ID - CT4WD3332       
 Domain - Web Development      
 Duration - June to July 2024       
-
-
-
+                                                  
+                                   
+                               
 OVERVIEW OF THE PROJECT
 
 Project : Weather Web App
