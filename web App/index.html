@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Web App</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+<body>
+    
+    <div class="container">
+    <div class="search_box">
+        <input type="text" name="input_text" placeholder="Enter City Name" id="input_text">
+     
+            <button type="submit" name="search_icon" id="searchBtn"><img src="/images/search.png" alt="search_icon" class="search-image" draggable="true"></button>
+       
+    </div>
+    <div class="location-not-found">
+        <h2>Sorry, Location not found!!!</h2>
+        
+    </div>
+
+    <div class="web_container">
+
+        <div class="weather_icons">
+            <img src="/images/clouds.png" alt="cloud" class="weather_image">
+            <div class="temperature">
+                <p class="temperature_text"> 32 °C</p>
+                <p class="description">Cloudy</p>
+            </div>
+        </div>
+
+
+   
+
+    
+
+
+    <div class="weather_details">
+        <div class="humidity">
+            <img src="/images/humidity.png" alt="humidity" class="humidity_image">
+            <div class="humidity_text">
+                <p id="humidity_percentage">45%</p>
+            <p class="humidity_txt">Humidity</p>
+            </div>
+        </div>
+        <div class="wind">
+            <img src="/images/wind.png" alt="Wind" class="Wind_image">
+           <div class="wind_text">
+            <p id="Wind_Speed">15 KM/H</p>
+            <p class="wind_txt">Wind Speed</p>
+           </div>
+        </div>
+    </div>
+</div>
+    
+</div>
+<script src="script.js"></script>
+</body>
+</html>
